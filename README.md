@@ -1,7 +1,7 @@
 # Learning Succinct Common Representation with Wyner's Common Information
 
 ---
-This repository provides a codebase for the paper "Learning Succinct Common Representation with Wyner's Common Information," (2022).
+This repository provides a codebase for the paper [https://arxiv.org/abs/1905.10945]("Learning Succinct Common Representation with Wyner's Common Information," (2022)).
 
 ---
 ## Experiments
